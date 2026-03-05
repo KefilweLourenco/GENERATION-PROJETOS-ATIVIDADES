@@ -25,3 +25,7 @@ Thumbs.db
 # Configurações de editor/IDE
 .vscode/
 .idea/
+
+# node_modules/
+dist/
+.env
